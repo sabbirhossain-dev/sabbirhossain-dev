@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-Hi! I am a Professional Frontend Developer specializing in building modern, responsive, and user-friendly web applications. I am passionate about creating clean, efficient, and visually appealing interfaces that deliver a smooth experience across all devices, including mobile and desktop platforms.I primarily work with React, Next.js, and Tailwind CSS to develop fast, scalable, and maintainable frontend solutions. I also use Firebase for backend services such as authentication, database management, and hosting when required.
+Hi! I am a Frontend Developer specializing in building modern, responsive, and user-friendly web applications. I am passionate about creating clean, efficient, and visually appealing interfaces that deliver a smooth experience across all devices, including mobile and desktop platforms.I primarily work with React, Next.js, and Tailwind CSS to develop fast, scalable, and maintainable frontend solutions. I also use Firebase for backend services such as authentication, database management, and hosting when required.
 
 
 ## 🌐 Socials:
