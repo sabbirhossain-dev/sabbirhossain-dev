@@ -41,25 +41,22 @@ Hi! I am a Frontend Developer specializing in building modern, responsive, and u
 
 <!-- ======================= GITHUB STATS ======================= -->
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sabbirhossain-dev&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=sabbirhossain-dev&show_icons=true&theme=midnight-purple&hide_border=true"
     height="180"
-    alt="Sabbir Hossain GitHub Stats"
+    alt="GitHub Stats"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirhossain-dev&layout=compact&theme=midnight-purple&hide_border=true"
     height="180"
     alt="Top Languages"
   />
-
 </p>
 
----
 
 
 
