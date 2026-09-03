@@ -47,15 +47,17 @@ Hi! I am a Frontend Developer specializing in building modern, responsive, and u
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sabbirhossain-dev&show_icons=true&theme=midnight-purple&hide_border=true"
-    height="180"
+    width="48%"
     alt="GitHub Stats"
   />
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirhossain-dev&layout=compact&theme=midnight-purple&hide_border=true"
-    height="180"
+    width="48%"
     alt="Top Languages"
   />
 </p>
+
 
 
 
