@@ -46,7 +46,7 @@ Hi! I am a Frontend Developer specializing in building modern, responsive, and u
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="start">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabbirhossain-dev&theme=tokyonight"
     width="48%"
