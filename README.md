@@ -24,6 +24,76 @@ Hi! I am a Frontend Developer specializing in building modern, responsive, and u
 [![](https://visitcount.itsvg.in/api?id=sabbirhossain-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+## 🔭 Currently
+
+- 🌱 Learning *Web Development*
+- ⚡ Exploring *JavaScript & TypeScript*
+- 🎨 Building responsive websites with *HTML, CSS & Tailwind CSS*
+- 💻 Strengthening my programming skills with *C & C++*
+- 🚀 Exploring modern web technologies
+- 📚 Improving my problem-solving skills through practice
+- 🛠️ Building projects to gain practical experience
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=junayedhasan302&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"
+    height="180"
+    alt="Junayed Hasan GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayedhasan302&layout=compact&theme=midnight-purple&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+
+</p>
+
+---
+
+<!-- ======================= GITHUB STREAK ======================= -->
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=junayedhasan302&theme=midnight-purple&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+</p>
+
+---
+
+<!-- ======================= PROFILE VIEWS ======================= -->
+
+<p align="center">
+
+  <img
+    src="https://komarev.com/ghpvc/?username=junayedhasan302&label=Profile%20Views&color=6C3BD1&style=flat"
+    alt="Profile Views"
+  />
+
+</p>
+
+---
+
+<!-- ======================= FOOTER ======================= -->
+
+<p align="center">
+
+  <i>
+    “Learning. Building. Improving. 🚀”
+  </i>
+
+</p>
+
 
 
 
