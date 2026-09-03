@@ -41,13 +41,13 @@ Hi! I am a Frontend Developer specializing in building modern, responsive, and u
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=junayedhasan302&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=sabbirhossain-dev&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"
     height="180"
-    alt="Junayed Hasan GitHub Stats"
+    alt="Sabbir Hossain GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayedhasan302&layout=compact&theme=midnight-purple&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirhossain-dev&layout=compact&theme=midnight-purple&hide_border=true"
     height="180"
     alt="Top Languages"
   />
@@ -63,7 +63,7 @@ Hi! I am a Frontend Developer specializing in building modern, responsive, and u
 <p align="center">
 
   <img
-    src="https://streak-stats.demolab.com?user=junayedhasan302&theme=midnight-purple&hide_border=true"
+    src="https://streak-stats.demolab.com?user=sabbirhossain-dev&theme=midnight-purple&hide_border=true"
     alt="GitHub Streak"
   />
 
@@ -76,7 +76,7 @@ Hi! I am a Frontend Developer specializing in building modern, responsive, and u
 <p align="center">
 
   <img
-    src="https://komarev.com/ghpvc/?username=junayedhasan302&label=Profile%20Views&color=6C3BD1&style=flat"
+    src="https://komarev.com/ghpvc/?username=sabbirhossain-dev&label=Profile%20Views&color=6C3BD1&style=flat"
     alt="Profile Views"
   />
 
