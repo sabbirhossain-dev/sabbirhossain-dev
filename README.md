@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner/banner.jpg" alt="Md Sabbir Hossain Banner" width="100%">
+  <img src="./banner/banner.png" alt="Md Sabbir Hossain Banner" width="100%">
 </p>
 
 
