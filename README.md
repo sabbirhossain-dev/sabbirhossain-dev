@@ -2,6 +2,18 @@
   <img src="./banner/banner.png" alt="Md Sabbir Hossain Banner" width="100%">
 </p>
 
+<h1 align="center">Hi 👋, I'm Md Sabbir Hossain</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Learning+Full+Stack+Development;Aspiring+Competitive+Programmer;JavaScript+%26+TypeScript+Learner;Building+Projects+%26+Learning+Every+Day"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+<br/>
 
 ## 👨‍💻 About Me
 Hi! I am a Frontend Developer specializing in building modern, responsive, and user-friendly web applications. I am passionate about creating clean, efficient, and visually appealing interfaces that deliver a smooth experience across all devices, including mobile and desktop platforms.I primarily work with React, Next.js, and Tailwind CSS to develop fast, scalable, and maintainable frontend solutions. I also use Firebase for backend services such as authentication, database management, and hosting when required.
