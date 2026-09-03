@@ -51,6 +51,19 @@ Hi! I am a Frontend Developer specializing in building modern, responsive, and u
 ---
 
 
+## 🚀 Featured Project
+
+### 🌐 Daily Grocery Web Application
+
+Developed a responsive grocery e-commerce platform with product browsing, cart management, filtering, and smooth user interactions.
+
+#Tech Stack: React.js • React Router • Tailwind CSS • Context API • Framer Motion
+
+🔗 *Live Demo:*  
+https://web-grocery-app.vercel.app/
+💻 *Source Code:*  
+https://github.com/sabbirhossain-dev/Grocery-App
+
 <!-- ======================= GITHUB STATS ======================= -->
 
 
