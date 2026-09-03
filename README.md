@@ -39,15 +39,30 @@ Hi! I am a Frontend Developer specializing in building modern, responsive, and u
 ---
 
 
-## 📊 GitHub Stats  
+<!-- ======================= GITHUB STATS ======================= -->
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sabbirhossain-dev=your-github-sabbirhossain-dev&layout=compact&theme=default) |
+## 📊 GitHub Stats
+
+<p align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sabbirhossain-dev&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"
+    height="180"
+    alt="Sabbir Hossain GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirhossain-dev&layout=compact&theme=midnight-purple&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+
+</p>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?sabbirhossain-dev=your-github-username&style=flat-square)
+
+
 
 <!-- ======================= GITHUB STREAK ======================= -->
 
