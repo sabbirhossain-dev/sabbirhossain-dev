@@ -61,13 +61,13 @@ Hi! I am a Frontend Developer specializing in building modern, responsive, and u
 <p align="start">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabbirhossain-dev&theme=tokyonight"
-    width="48%"
+    width="42%"
     alt="GitHub Stats"
   />
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabbirhossain-dev&theme=tokyonight"
-    width="48%"
+    width="42%"
     alt="Top Languages"
   />
 </p>
