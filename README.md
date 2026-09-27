@@ -138,7 +138,7 @@ https://github.com/sabbirhossain-dev/Grocery-App
 <p align="center">
 
   <i>
-    “Learning. Building. Improving. 🚀”
+    “Learning. Building. and Improving. 🚀”
   </i>
 
 </p>
