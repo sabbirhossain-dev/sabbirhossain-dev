@@ -46,7 +46,7 @@ Hi! I am a Frontend Developer specializing in building modern, responsive, and u
 - 💻 Strengthening my programming skills with *C & C++*
 - 🚀 Exploring modern web technologies
 - 📚 Improving my problem-solving skills through practice
-- 🛠️ Building projects to gain practical experience
+- 🛠️ Building projects to gain  experience
 
 ---
 
