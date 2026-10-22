@@ -47,7 +47,7 @@ I am very much interested in full-stack development.
 - 💻 Strengthening my programming skills with *C & C++*
 - 🚀 Exploring modern web technologies
 - 📚 Improving my problem-solving skills through practice
-- 🛠️ Building projects to gain  experience
+- 🛠️ Building projects and gain experience
 
 ---
 
