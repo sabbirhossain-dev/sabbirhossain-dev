@@ -18,8 +18,7 @@
 ## 👨‍💻 About Me
 Hi! I am a Frontend Developer specializing in building modern, responsive, and user-friendly web applications. I am passionate about creating clean, efficient, and visually appealing interfaces that deliver a smooth experience across all devices, including mobile and desktop platforms.I primarily work with React, Next.js, and Tailwind CSS to develop fast, scalable, and maintainable frontend solutions. I am also use Firebase for backend services such as authentication, database management, and hosting when required.
 
-I am very much interested about full-stack development.
-
+I am very much interested in full-stack development. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabbir.hossain.445886) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___sabbirhossain) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/md-sabbir-hossain-5777602a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hossainsabbir309@gmail.com) 
