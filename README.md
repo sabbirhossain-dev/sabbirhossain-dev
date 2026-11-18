@@ -41,7 +41,7 @@ I am very much interested in full-stack development.
 
 ## 🔭 Currently
 
-- 🌱 Learning *Web Development*
+- 🌱 Learning *Full Stack Development*
 - ⚡ Exploring *JavaScript & TypeScript*
 - 🎨 Building responsive websites with *HTML, CSS & Tailwind CSS*
 - 💻 Strengthening my programming skills with *C & C++*
